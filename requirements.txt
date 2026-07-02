@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+pandas
+numpy
+plotly
+requests
+sentence-transformers
+torch
+transformers
+scikit-learn
+scipy
+XlsxWriter ==3.2.0
+google-genai
+python-dotenv
+reportlab
+rank-bm25
+faiss-cpu
